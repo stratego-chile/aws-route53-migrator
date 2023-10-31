@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "parse": "deno run --allow-read --allow-write parse.ts",
+    "parse:all": "deno run --allow-read --allow-write parse-all.ts"
+  }
+}
